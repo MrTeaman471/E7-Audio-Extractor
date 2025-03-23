@@ -45,9 +45,7 @@ Manual Command Extraction:
 
     Open Command Prompt (cmd.exe) in the folder where fsb_aud_extr.exe is located.
 
-    Run the following command:
-
-fsb_aud_extr.exe <input.fsb>
+    Run the following command: fsb_aud_extr.exe <input.fsb>
 
     Replace <input.fsb> with the name of the .fsb file you want to extract.
 
