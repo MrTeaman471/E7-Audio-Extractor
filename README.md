@@ -52,4 +52,4 @@ Manual Command Extraction:
 The extracted audio will be saved in the same folder where you ran the command.
 
 Notes:
-Thanks to his infomation: https://www.reddit.com/r/EpicSeven/comments/r8q218/tool_extract_sound_files_from_e7_bankpackages/
+Thanks to this information: https://www.reddit.com/r/EpicSeven/comments/r8q218/tool_extract_sound_files_from_e7_bankpackages/
