@@ -1,0 +1,24 @@
+This guide will walk you through extracting audio files from .bank files using QuickBMS and FSB_Aud_Extr.
+Step 1: Extract .bank Files Using QuickBMS (Manual Process)
+
+Since QuickBMS requires user interaction, follow these manual steps:
+
+    Open QuickBMS (quickbms.exe).
+
+    Select the dump_fsbs script.
+
+    Choose the .bank file you want to extract.
+
+    Select the output folder where you want the extracted .fsb files to be saved.
+
+    Wait for QuickBMS to finish the extraction.
+
+Once this is complete, you should have one or more .fsb files in your chosen output folder.
+Step 2: Extract Audio Files from .fsb Using FSB_Aud_Extr
+
+After QuickBMS extracts the .fsb files, you can extract the actual audio using FSB_Aud_Extr.
+Option 1: Run the Command Manually
+
+Open Command Prompt (cmd.exe) in the folder where fsb_aud_extr.exe is located and run the following command:
+
+fsb_aud_extr.exe <input.fsb>
